@@ -1,0 +1,41 @@
+.BookingForm {
+    margin-top: 20px;
+  }
+  
+  .BookingForm h2 {
+    color: #ffffff;
+  }
+  
+  .BookingForm form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .BookingForm div {
+    margin-bottom: 15px;
+  }
+  
+  .BookingForm label {
+    margin-bottom: 5px;
+    color: #333;
+  }
+  
+  .BookingForm input {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-top: 5px;
+  }
+  
+  .BookingForm button {
+    padding: 10px;
+    background-color: #0066cc;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .BookingForm button:hover {
+    background-color: #0052a3;
+  }

@@ -1,0 +1,22 @@
+.movielist {
+    margin-bottom: 20px;
+  }
+  
+  .movielist h2 {
+    color: #ffffff;
+  }
+  
+  .movielist ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .movielist li {
+    margin-bottom: 10px;
+  }
+  
+  .movielist a {
+    text-decoration: none;
+    color: #0066cc;
+    font-weight: bold;
+  }
